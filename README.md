@@ -3,3 +3,6 @@ traffic monitoring system built with PyTorch, Faster R-CNN, SAHI, and OpenCV to 
 
 <img width="720" height="489" alt="image" src="https://github.com/user-attachments/assets/aa465352-4500-4583-9dfa-58c0d2a5c0d5" />
 
+<img width="720" height="489" alt="image" src="https://github.com/user-attachments/assets/16f85f0c-5ad6-4878-aa0a-e9540b03a73d" />
+
+
